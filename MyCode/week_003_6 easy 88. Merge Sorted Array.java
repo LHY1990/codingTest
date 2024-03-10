@@ -2,6 +2,8 @@ import org.junit.Test;
 
 import java.util.*;
 
+// https://leetcode.com/problems/merge-sorted-array/?envType=study-plan-v2&envId=top-interview-150
+
 class Solution {
     public void merge(int[] nums1, int m, int[] nums2, int n) {
         int index1 = m - 1;

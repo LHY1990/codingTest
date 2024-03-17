@@ -47,8 +47,9 @@ Output: 5, nums = [0,1,2,3,4,_,_,_,_,_]
 -100 <= nums[i] <= 100
 nums는 감소하지 않는 순서로 정렬됩니다.
 
-DeepL.com에서 열기
-사전
+토픽:
+Array
+Two Pointers
 
 */
 
